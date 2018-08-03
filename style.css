@@ -1,3 +1,29 @@
 p {
-    background-color: aquamarine;
+    background-color: pink;
    }
+
+p1 {
+    background-color: pink;
+    padding-top: 150px;
+    padding-left: 0px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+h2 {
+    background-color: white;
+    color: #4aaaa5;
+}
+
+.nav {
+    background-color: orange;
+}
+
+.container {
+    display: flex;
+}
