@@ -1,5 +1,6 @@
 p {
     background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
    }
 
 p1 {
@@ -8,11 +9,13 @@ p1 {
     padding-left: 0px;
     font-size: 20px;
     line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     background-color: #4aaaa5;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
