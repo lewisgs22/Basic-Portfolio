@@ -223,6 +223,10 @@ hr {
     height: 200px;
 }
 
+.img2:hover {
+    opacity: 0.3;
+}
+
 .container1 {
     position: relative;
 }
